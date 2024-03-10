@@ -1,0 +1,269 @@
+.img1 {
+  width: 100px;
+  height: 100px;
+  background: url("/src/assets/images/ImageSprite/100SizeImage/css_sprites.png") -10px -10px;
+}
+
+.img2 {
+  width: 100px;
+  height: 100px;
+  background: url("/src/assets/images/ImageSprite/100SizeImage/css_sprites.png") -130px -10px;
+}
+
+.img3 {
+  width: 100px;
+  height: 100px;
+  background: url("/src/assets/images/ImageSprite/100SizeImage/css_sprites.png") -10px -130px;
+}
+
+.img4 {
+  width: 100px;
+  height: 100px;
+  background: url("/src/assets/images/ImageSprite/100SizeImage/css_sprites.png") -130px -130px;
+}
+
+.img5 {
+  width: 100px;
+  height: 100px;
+  background: url("/src/assets/images/ImageSprite/100SizeImage/css_sprites.png") -250px -10px;
+}
+
+.img6 {
+  width: 100px;
+  height: 100px;
+  background: url("/src/assets/images/ImageSprite/100SizeImage/css_sprites.png") -250px -130px;
+}
+
+.img7 {
+  width: 100px;
+  height: 100px;
+  background: url("/src/assets/images/ImageSprite/100SizeImage/css_sprites.png") -10px -250px;
+}
+
+.img8 {
+  width: 100px;
+  height: 100px;
+  background: url("/src/assets/images/ImageSprite/100SizeImage/css_sprites.png") -130px -250px;
+}
+
+.img9 {
+  width: 100px;
+  height: 100px;
+  background: url("/src/assets/images/ImageSprite/100SizeImage/css_sprites.png") -250px -250px;
+}
+
+.img10 {
+  width: 100px;
+  height: 100px;
+  background: url("/src/assets/images/ImageSprite/100SizeImage/css_sprites.png") -370px -10px;
+}
+
+.img11 {
+  width: 100px;
+  height: 100px;
+  background: url("/src/assets/images/ImageSprite/100SizeImage/css_sprites.png") -370px -130px;
+}
+
+.img12 {
+  width: 100px;
+  height: 100px;
+  background: url("/src/assets/images/ImageSprite/100SizeImage/css_sprites.png") -370px -250px;
+}
+
+.img13 {
+  width: 100px;
+  height: 100px;
+  background: url("/src/assets/images/ImageSprite/100SizeImage/css_sprites.png") -10px -370px;
+}
+
+.img14 {
+  width: 100px;
+  height: 100px;
+  background: url("/src/assets/images/ImageSprite/100SizeImage/css_sprites.png") -130px -370px;
+}
+
+.img15 {
+  width: 100px;
+  height: 100px;
+  background: url("/src/assets/images/ImageSprite/100SizeImage/css_sprites.png") -250px -370px;
+}
+
+.img16 {
+  width: 100px;
+  height: 100px;
+  background: url("/src/assets/images/ImageSprite/100SizeImage/css_sprites.png") -370px -370px;
+}
+
+.img17 {
+  width: 100px;
+  height: 100px;
+  background: url("/src/assets/images/ImageSprite/100SizeImage/css_sprites.png") -490px -10px;
+}
+
+.img18 {
+  width: 100px;
+  height: 100px;
+  background: url("/src/assets/images/ImageSprite/100SizeImage/css_sprites.png") -490px -130px;
+}
+
+.img19 {
+  width: 100px;
+  height: 100px;
+  background: url("/src/assets/images/ImageSprite/100SizeImage/css_sprites.png") -490px -250px;
+}
+
+.img20 {
+  width: 100px;
+  height: 100px;
+  background: url("/src/assets/images/ImageSprite/100SizeImage/css_sprites.png") -490px -370px;
+}
+
+.img21 {
+  width: 100px;
+  height: 100px;
+  background: url("/src/assets/images/ImageSprite/100SizeImage/css_sprites.png") -10px -490px;
+}
+
+.img24 {
+  width: 100px;
+  height: 100px;
+  background: url("/src/assets/images/ImageSprite/100SizeImage/css_sprites.png") -130px -490px;
+}
+
+.img26 {
+  width: 100px;
+  height: 100px;
+  background: url("/src/assets/images/ImageSprite/100SizeImage/css_sprites.png") -250px -490px;
+}
+
+.img22 {
+  width: 100px;
+  height: 100px;
+  background: url("/src/assets/images/ImageSprite/100SizeImage/css_sprites.png") -370px -490px;
+}
+
+.img27 {
+  width: 100px;
+  height: 100px;
+  background: url("/src/assets/images/ImageSprite/100SizeImage/css_sprites.png") -490px -490px;
+}
+
+.img28 {
+  width: 100px;
+  height: 100px;
+  background: url("/src/assets/images/ImageSprite/100SizeImage/css_sprites.png") -610px -10px;
+}
+
+.img29 {
+  width: 100px;
+  height: 100px;
+  background: url("/src/assets/images/ImageSprite/100SizeImage/css_sprites.png") -610px -130px;
+}
+
+.img30 {
+  width: 100px;
+  height: 100px;
+  background: url("/src/assets/images/ImageSprite/100SizeImage/css_sprites.png") -610px -250px;
+}
+
+.img31 {
+  width: 100px;
+  height: 100px;
+  background: url("/src/assets/images/ImageSprite/100SizeImage/css_sprites.png") -610px -370px;
+}
+
+.img32 {
+  width: 100px;
+  height: 100px;
+  background: url("/src/assets/images/ImageSprite/100SizeImage/css_sprites.png") -610px -490px;
+}
+
+.img33 {
+  width: 100px;
+  height: 100px;
+  background: url("/src/assets/images/ImageSprite/100SizeImage/css_sprites.png") -10px -610px;
+}
+
+.img23 {
+  width: 100px;
+  height: 100px;
+  background: url("/src/assets/images/ImageSprite/100SizeImage/css_sprites.png") -130px -610px;
+}
+
+.img35 {
+  width: 100px;
+  height: 100px;
+  background: url("/src/assets/images/ImageSprite/100SizeImage/css_sprites.png") -250px -610px;
+}
+
+.img37 {
+  width: 100px;
+  height: 100px;
+  background: url("/src/assets/images/ImageSprite/100SizeImage/css_sprites.png") -370px -610px;
+}
+
+.img36 {
+  width: 100px;
+  height: 100px;
+  background: url("/src/assets/images/ImageSprite/100SizeImage/css_sprites.png") -490px -610px;
+}
+
+.img38 {
+  width: 100px;
+  height: 100px;
+  background: url("/src/assets/images/ImageSprite/100SizeImage/css_sprites.png") -610px -610px;
+}
+
+.img39 {
+  width: 100px;
+  height: 100px;
+  background: url("/src/assets/images/ImageSprite/100SizeImage/css_sprites.png") -730px -10px;
+}
+
+.img40 {
+  width: 100px;
+  height: 100px;
+  background: url("/src/assets/images/ImageSprite/100SizeImage/css_sprites.png") -730px -130px;
+}
+
+.img41 {
+  width: 100px;
+  height: 100px;
+  background: url("/src/assets/images/ImageSprite/100SizeImage/css_sprites.png") -730px -250px;
+}
+
+.img42 {
+  width: 100px;
+  height: 100px;
+  background: url("/src/assets/images/ImageSprite/100SizeImage/css_sprites.png") -730px -370px;
+}
+
+.img43 {
+  width: 100px;
+  height: 100px;
+  background: url("/src/assets/images/ImageSprite/100SizeImage/css_sprites.png") -730px -490px;
+}
+
+.img44 {
+  width: 100px;
+  height: 100px;
+  background: url("/src/assets/images/ImageSprite/100SizeImage/css_sprites.png") -730px -610px;
+}
+
+.img45 {
+  width: 100px;
+  height: 100px;
+  background: url("/src/assets/images/ImageSprite/100SizeImage/css_sprites.png") -10px -730px;
+}
+
+.img25 {
+  width: 100px;
+  height: 100px;
+  background: url("/src/assets/images/ImageSprite/100SizeImage/css_sprites.png") -130px -730px;
+}
+
+.img34 {
+  width: 100px;
+  height: 100px;
+  background: url("/src/assets/images/ImageSprite/100SizeImage/css_sprites.png") -250px -730px;
+}
