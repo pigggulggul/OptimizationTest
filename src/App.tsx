@@ -10,8 +10,8 @@ function App() {
 
   return (
     <>
-      <ImageSprite />
-      {/* <NotImageSprite /> */}
+      {/* <ImageSprite /> */}
+      <NotImageSprite />
     </>
   );
 }

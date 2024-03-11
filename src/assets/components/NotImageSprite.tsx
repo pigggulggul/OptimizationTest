@@ -1,233 +1,233 @@
 export default function NotImageSprite() {
   return (
     <>
-      {/* <div>이미지 총 용량 : 23MB. JPG,PNG 파일 반반</div>
+      {/* <div>이미지 총 용량 : 23MB. JPG,webp 파일 반반</div>
       <img src="/src/assets/images/NotImageSprite/testImage (1).jpg" alt="" />
-      <img src="/src/assets/images/NotImageSprite/testImage (1).png" alt="" />
+      <img src="/src/assets/images/NotImageSprite/testImage (1).webp" alt="" />
       <img src="/src/assets/images/NotImageSprite/testImage (2).jpg" alt="" />
-      <img src="/src/assets/images/NotImageSprite/testImage (2).png" alt="" />
+      <img src="/src/assets/images/NotImageSprite/testImage (2).webp" alt="" />
       <img src="/src/assets/images/NotImageSprite/testImage (3).jpg" alt="" />
-      <img src="/src/assets/images/NotImageSprite/testImage (3).png" alt="" />
+      <img src="/src/assets/images/NotImageSprite/testImage (3).webp" alt="" />
       <img src="/src/assets/images/NotImageSprite/testImage (4).jpg" alt="" />
-      <img src="/src/assets/images/NotImageSprite/testImage (4).png" alt="" />
+      <img src="/src/assets/images/NotImageSprite/testImage (4).webp" alt="" />
       <img src="/src/assets/images/NotImageSprite/testImage (5).jpg" alt="" />
-      <img src="/src/assets/images/NotImageSprite/testImage (5).png" alt="" />
+      <img src="/src/assets/images/NotImageSprite/testImage (5).webp" alt="" />
       <img src="/src/assets/images/NotImageSprite/testImage (6).jpg" alt="" />
-      <img src="/src/assets/images/NotImageSprite/testImage (6).png" alt="" />
+      <img src="/src/assets/images/NotImageSprite/testImage (6).webp" alt="" />
       <img src="/src/assets/images/NotImageSprite/testImage (7).jpg" alt="" />
-      <img src="/src/assets/images/NotImageSprite/testImage (7).png" alt="" />
+      <img src="/src/assets/images/NotImageSprite/testImage (7).webp" alt="" />
       <img src="/src/assets/images/NotImageSprite/testImage (8).jpg" alt="" />
-      <img src="/src/assets/images/NotImageSprite/testImage (8).png" alt="" />
+      <img src="/src/assets/images/NotImageSprite/testImage (8).webp" alt="" />
       <img src="/src/assets/images/NotImageSprite/testImage (9).jpg" alt="" />
-      <img src="/src/assets/images/NotImageSprite/testImage (9).png" alt="" />
+      <img src="/src/assets/images/NotImageSprite/testImage (9).webp" alt="" />
       <img src="/src/assets/images/NotImageSprite/testImage (10).jpg" alt="" />
-      <img src="/src/assets/images/NotImageSprite/testImage (10).png" alt="" />
+      <img src="/src/assets/images/NotImageSprite/testImage (10).webp" alt="" />
       <img src="/src/assets/images/NotImageSprite/testImage (11).jpg" alt="" />
-      <img src="/src/assets/images/NotImageSprite/testImage (11).png" alt="" />
+      <img src="/src/assets/images/NotImageSprite/testImage (11).webp" alt="" />
       <img src="/src/assets/images/NotImageSprite/testImage (12).jpg" alt="" />
-      <img src="/src/assets/images/NotImageSprite/testImage (12).png" alt="" />
+      <img src="/src/assets/images/NotImageSprite/testImage (12).webp" alt="" />
       <img src="/src/assets/images/NotImageSprite/testImage (13).jpg" alt="" />
-      <img src="/src/assets/images/NotImageSprite/testImage (13).png" alt="" />
-      <img src="/src/assets/images/NotImageSprite/testImage (14).png" alt="" />
+      <img src="/src/assets/images/NotImageSprite/testImage (13).webp" alt="" />
+      <img src="/src/assets/images/NotImageSprite/testImage (14).webp" alt="" />
       <img src="/src/assets/images/NotImageSprite/testImage (14).jpg" alt="" />
-      <img src="/src/assets/images/NotImageSprite/testImage (15).png" alt="" />
+      <img src="/src/assets/images/NotImageSprite/testImage (15).webp" alt="" />
       <img src="/src/assets/images/NotImageSprite/testImage (15).jpg" alt="" />
-      <img src="/src/assets/images/NotImageSprite/testImage (16).png" alt="" />
+      <img src="/src/assets/images/NotImageSprite/testImage (16).webp" alt="" />
       <img src="/src/assets/images/NotImageSprite/testImage (16).jpg" alt="" />
-      <img src="/src/assets/images/NotImageSprite/testImage (17).png" alt="" />
+      <img src="/src/assets/images/NotImageSprite/testImage (17).webp" alt="" />
       <img src="/src/assets/images/NotImageSprite/testImage (17).jpg" alt="" />
-      <img src="/src/assets/images/NotImageSprite/testImage (18).png" alt="" />
+      <img src="/src/assets/images/NotImageSprite/testImage (18).webp" alt="" />
       <img src="/src/assets/images/NotImageSprite/testImage (18).jpg" alt="" />
-      <img src="/src/assets/images/NotImageSprite/testImage (19).png" alt="" />
+      <img src="/src/assets/images/NotImageSprite/testImage (19).webp" alt="" />
       <img src="/src/assets/images/NotImageSprite/testImage (19).jpg" alt="" />
-      <img src="/src/assets/images/NotImageSprite/testImage (20).png" alt="" />
+      <img src="/src/assets/images/NotImageSprite/testImage (20).webp" alt="" />
       <img src="/src/assets/images/NotImageSprite/testImage (21).jpg" alt="" />
-      <img src="/src/assets/images/NotImageSprite/testImage (21).png" alt="" />
-      <img src="/src/assets/images/NotImageSprite/testImage (22).png" alt="" />
-      <img src="/src/assets/images/NotImageSprite/testImage (23).png" alt="" />
-      <img src="/src/assets/images/NotImageSprite/testImage (24).png" alt="" />
-      <img src="/src/assets/images/NotImageSprite/testImage (25).png" alt="" />
-      <img src="/src/assets/images/NotImageSprite/testImage (27).png" alt="" /> */}
+      <img src="/src/assets/images/NotImageSprite/testImage (21).webp" alt="" />
+      <img src="/src/assets/images/NotImageSprite/testImage (22).webp" alt="" />
+      <img src="/src/assets/images/NotImageSprite/testImage (23).webp" alt="" />
+      <img src="/src/assets/images/NotImageSprite/testImage (24).webp" alt="" />
+      <img src="/src/assets/images/NotImageSprite/testImage (25).webp" alt="" />
+      <img src="/src/assets/images/NotImageSprite/testImage (27).webp" alt="" /> */}
 
       {/* 파일 45개. 뒤에 파일 경로를 바꿔가며 사용 */}
       <img
-        src="/src/assets/images/NotImageSprite/500SizeImage/testImage (1).png"
+        src="/src/assets/images/NotImageSprite/200SizeImage/testImage (1).webp"
         alt=""
       />
       <img
-        src="/src/assets/images/NotImageSprite/500SizeImage/testImage (2).png"
+        src="/src/assets/images/NotImageSprite/200SizeImage/testImage (2).webp"
         alt=""
       />
       <img
-        src="/src/assets/images/NotImageSprite/500SizeImage/testImage (3).png"
+        src="/src/assets/images/NotImageSprite/200SizeImage/testImage (3).webp"
         alt=""
       />
       <img
-        src="/src/assets/images/NotImageSprite/500SizeImage/testImage (4).png"
+        src="/src/assets/images/NotImageSprite/200SizeImage/testImage (4).webp"
         alt=""
       />
       <img
-        src="/src/assets/images/NotImageSprite/500SizeImage/testImage (5).png"
+        src="/src/assets/images/NotImageSprite/200SizeImage/testImage (5).webp"
         alt=""
       />
       <img
-        src="/src/assets/images/NotImageSprite/500SizeImage/testImage (6).png"
+        src="/src/assets/images/NotImageSprite/200SizeImage/testImage (6).webp"
         alt=""
       />
       <img
-        src="/src/assets/images/NotImageSprite/500SizeImage/testImage (7).png"
+        src="/src/assets/images/NotImageSprite/200SizeImage/testImage (7).webp"
         alt=""
       />
       <img
-        src="/src/assets/images/NotImageSprite/500SizeImage/testImage (8).png"
+        src="/src/assets/images/NotImageSprite/200SizeImage/testImage (8).webp"
         alt=""
       />
       <img
-        src="/src/assets/images/NotImageSprite/500SizeImage/testImage (9).png"
+        src="/src/assets/images/NotImageSprite/200SizeImage/testImage (9).webp"
         alt=""
       />
       <img
-        src="/src/assets/images/NotImageSprite/500SizeImage/testImage (10).png"
+        src="/src/assets/images/NotImageSprite/200SizeImage/testImage (10).webp"
         alt=""
       />
       <img
-        src="/src/assets/images/NotImageSprite/500SizeImage/testImage (11).png"
+        src="/src/assets/images/NotImageSprite/200SizeImage/testImage (11).webp"
         alt=""
       />
       <img
-        src="/src/assets/images/NotImageSprite/500SizeImage/testImage (12).png"
+        src="/src/assets/images/NotImageSprite/200SizeImage/testImage (12).webp"
         alt=""
       />
       <img
-        src="/src/assets/images/NotImageSprite/500SizeImage/testImage (13).png"
+        src="/src/assets/images/NotImageSprite/200SizeImage/testImage (13).webp"
         alt=""
       />
       <img
-        src="/src/assets/images/NotImageSprite/500SizeImage/testImage (14).png"
+        src="/src/assets/images/NotImageSprite/200SizeImage/testImage (14).webp"
         alt=""
       />
       <img
-        src="/src/assets/images/NotImageSprite/500SizeImage/testImage (15).png"
+        src="/src/assets/images/NotImageSprite/200SizeImage/testImage (15).webp"
         alt=""
       />
       <img
-        src="/src/assets/images/NotImageSprite/500SizeImage/testImage (16).png"
+        src="/src/assets/images/NotImageSprite/200SizeImage/testImage (16).webp"
         alt=""
       />
       <img
-        src="/src/assets/images/NotImageSprite/500SizeImage/testImage (17).png"
+        src="/src/assets/images/NotImageSprite/200SizeImage/testImage (17).webp"
         alt=""
       />
       <img
-        src="/src/assets/images/NotImageSprite/500SizeImage/testImage (18).png"
+        src="/src/assets/images/NotImageSprite/200SizeImage/testImage (18).webp"
         alt=""
       />
       <img
-        src="/src/assets/images/NotImageSprite/500SizeImage/testImage (19).png"
+        src="/src/assets/images/NotImageSprite/200SizeImage/testImage (19).webp"
         alt=""
       />
       <img
-        src="/src/assets/images/NotImageSprite/500SizeImage/testImage (20).png"
+        src="/src/assets/images/NotImageSprite/200SizeImage/testImage (20).webp"
         alt=""
       />
       <img
-        src="/src/assets/images/NotImageSprite/500SizeImage/testImage (21).png"
+        src="/src/assets/images/NotImageSprite/200SizeImage/testImage (21).webp"
         alt=""
       />
       <img
-        src="/src/assets/images/NotImageSprite/500SizeImage/testImage (22).png"
+        src="/src/assets/images/NotImageSprite/200SizeImage/testImage (22).webp"
         alt=""
       />
       <img
-        src="/src/assets/images/NotImageSprite/500SizeImage/testImage (23).png"
+        src="/src/assets/images/NotImageSprite/200SizeImage/testImage (23).webp"
         alt=""
       />
       <img
-        src="/src/assets/images/NotImageSprite/500SizeImage/testImage (24).png"
+        src="/src/assets/images/NotImageSprite/200SizeImage/testImage (24).webp"
         alt=""
       />
       <img
-        src="/src/assets/images/NotImageSprite/500SizeImage/testImage (25).png"
+        src="/src/assets/images/NotImageSprite/200SizeImage/testImage (25).webp"
         alt=""
       />
       <img
-        src="/src/assets/images/NotImageSprite/500SizeImage/testImage (26).png"
+        src="/src/assets/images/NotImageSprite/200SizeImage/testImage (26).webp"
         alt=""
       />
       <img
-        src="/src/assets/images/NotImageSprite/500SizeImage/testImage (27).png"
+        src="/src/assets/images/NotImageSprite/200SizeImage/testImage (27).webp"
         alt=""
       />
       <img
-        src="/src/assets/images/NotImageSprite/500SizeImage/testImage (28).png"
+        src="/src/assets/images/NotImageSprite/200SizeImage/testImage (28).webp"
         alt=""
       />
       <img
-        src="/src/assets/images/NotImageSprite/500SizeImage/testImage (29).png"
+        src="/src/assets/images/NotImageSprite/200SizeImage/testImage (29).webp"
         alt=""
       />
       <img
-        src="/src/assets/images/NotImageSprite/500SizeImage/testImage (30).png"
+        src="/src/assets/images/NotImageSprite/200SizeImage/testImage (30).webp"
         alt=""
       />
       <img
-        src="/src/assets/images/NotImageSprite/500SizeImage/testImage (31).png"
+        src="/src/assets/images/NotImageSprite/200SizeImage/testImage (31).webp"
         alt=""
       />
       <img
-        src="/src/assets/images/NotImageSprite/500SizeImage/testImage (32).png"
+        src="/src/assets/images/NotImageSprite/200SizeImage/testImage (32).webp"
         alt=""
       />
       <img
-        src="/src/assets/images/NotImageSprite/500SizeImage/testImage (33).png"
+        src="/src/assets/images/NotImageSprite/200SizeImage/testImage (33).webp"
         alt=""
       />
       <img
-        src="/src/assets/images/NotImageSprite/500SizeImage/testImage (34).png"
+        src="/src/assets/images/NotImageSprite/200SizeImage/testImage (34).webp"
         alt=""
       />
       <img
-        src="/src/assets/images/NotImageSprite/500SizeImage/testImage (35).png"
+        src="/src/assets/images/NotImageSprite/200SizeImage/testImage (35).webp"
         alt=""
       />
       <img
-        src="/src/assets/images/NotImageSprite/500SizeImage/testImage (36).png"
+        src="/src/assets/images/NotImageSprite/200SizeImage/testImage (36).webp"
         alt=""
       />
       <img
-        src="/src/assets/images/NotImageSprite/500SizeImage/testImage (37).png"
+        src="/src/assets/images/NotImageSprite/200SizeImage/testImage (37).webp"
         alt=""
       />
       <img
-        src="/src/assets/images/NotImageSprite/500SizeImage/testImage (38).png"
+        src="/src/assets/images/NotImageSprite/200SizeImage/testImage (38).webp"
         alt=""
       />
       <img
-        src="/src/assets/images/NotImageSprite/500SizeImage/testImage (39).png"
+        src="/src/assets/images/NotImageSprite/200SizeImage/testImage (39).webp"
         alt=""
       />
       <img
-        src="/src/assets/images/NotImageSprite/500SizeImage/testImage (40).png"
+        src="/src/assets/images/NotImageSprite/200SizeImage/testImage (40).webp"
         alt=""
       />
       <img
-        src="/src/assets/images/NotImageSprite/500SizeImage/testImage (41).png"
+        src="/src/assets/images/NotImageSprite/200SizeImage/testImage (41).webp"
         alt=""
       />
       <img
-        src="/src/assets/images/NotImageSprite/500SizeImage/testImage (42).png"
+        src="/src/assets/images/NotImageSprite/200SizeImage/testImage (42).webp"
         alt=""
       />
       <img
-        src="/src/assets/images/NotImageSprite/500SizeImage/testImage (43).png"
+        src="/src/assets/images/NotImageSprite/200SizeImage/testImage (43).webp"
         alt=""
       />
       <img
-        src="/src/assets/images/NotImageSprite/500SizeImage/testImage (44).png"
+        src="/src/assets/images/NotImageSprite/200SizeImage/testImage (44).webp"
         alt=""
       />
       <img
-        src="/src/assets/images/NotImageSprite/500SizeImage/testImage (45).png"
+        src="/src/assets/images/NotImageSprite/200SizeImage/testImage (45).webp"
         alt=""
       />
     </>

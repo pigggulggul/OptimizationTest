@@ -8,10 +8,10 @@
 // import "../images/ImageSprite/100SizeImage/imageSprite.css";
 
 // 350KB의 200x200사이즈의 작은 이미지 스프라이트
-// import "../images/ImageSprite/200SizeImage/imageSprite.css";
+import "../images/ImageSprite/200SizeImage/imageSprite.css";
 
 // 1.2MB의 500x500사이즈의 작은 이미지 스프라이트
-import "../images/ImageSprite/500SizeImage/imageSprite.css";
+// import "../images/ImageSprite/500SizeImage/imageSprite.css";
 export default function ImageSprite() {
   return (
     <>
